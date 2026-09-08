@@ -1,0 +1,438 @@
+customer_id,account_type,region,referral_source,days_since_last_visit
+VIS-0001,Guest,LATAM,Email,160
+VIS-0002,Registered,EU,Email,125
+VIS-0003,Premium,EU,,162
+VIS-0004,Registered,APAC,Direct,112
+VIS-0005,Premium,APAC,Paid Ads,142
+VIS-0006,Premium,LATAM,Paid Ads,127
+VIS-0007,Guest,NA,Social,97
+VIS-0008,Guest,LATAM,Organic Search,32
+VIS-0009,Guest,EU,Paid Ads,26
+VIS-0010,Premium,EU,Paid Ads,102
+VIS-0011,Premium,NA,Direct,80
+VIS-0012,Registered,EU,Social,110
+VIS-0013,Guest,APAC,Email,3
+VIS-0014,Premium,APAC,Paid Ads,17
+VIS-0015,Guest,LATAM,Social,13
+VIS-0016,Registered,EU,Organic Search,126
+VIS-0017,Premium,LATAM,Social,29
+VIS-0018,Premium,EU,Email,46
+VIS-0019,Registered,EU,Paid Ads,78
+VIS-0020,Guest,NA,Direct,177
+VIS-0021,Premium,EU,Paid Ads,61
+VIS-0022,Registered,EU,Email,10
+VIS-0023,Registered,NA,Organic Search,177
+VIS-0024,Registered,APAC,Email,160
+VIS-0025,Guest,NA,Social,84
+VIS-0026,Premium,LATAM,Paid Ads,54
+VIS-0027,Registered,LATAM,Social,116
+VIS-0028,Registered,NA,,36
+VIS-0029,Premium,NA,Direct,158
+VIS-0030,Registered,NA,Organic Search,147
+VIS-0031,Guest,APAC,Organic Search,105
+VIS-0032,Premium,APAC,Social,120
+VIS-0033,Guest,APAC,Email,87
+VIS-0034,Premium,APAC,Paid Ads,127
+VIS-0035,Premium,EU,Paid Ads,125
+VIS-0036,Guest,EU,Direct,81
+VIS-0037,Premium,NA,Organic Search,147
+VIS-0038,Guest,APAC,Email,51
+VIS-0039,Premium,APAC,Organic Search,131
+VIS-0040,Premium,NA,Direct,161
+VIS-0041,Premium,EU,Email,125
+VIS-0042,Guest,APAC,Social,59
+VIS-0043,Registered,APAC,Social,82
+VIS-0044,Premium,EU,Direct,172
+VIS-0045,Registered,APAC,Social,74
+VIS-0046,Guest,APAC,Email,8
+VIS-0047,Guest,NA,Paid Ads,21
+VIS-0048,Registered,LATAM,Social,68
+VIS-0049,Registered,LATAM,Direct,52
+VIS-0050,Guest,NA,Organic Search,70
+VIS-0051,Registered,NA,Email,121
+VIS-0052,Registered,NA,Organic Search,40
+VIS-0053,Premium,APAC,Direct,24
+VIS-0054,Premium,APAC,Paid Ads,56
+VIS-0055,Registered,EU,Paid Ads,158
+VIS-0056,Premium,EU,Social,155
+VIS-0057,Guest,LATAM,Organic Search,21
+VIS-0058,Premium,APAC,Direct,115
+VIS-0059,Premium,NA,,18
+VIS-0060,Guest,LATAM,Email,21
+VIS-0061,Premium,EU,Email,18
+VIS-0062,Premium,EU,Paid Ads,158
+VIS-0063,Premium,LATAM,Social,122
+VIS-0064,Registered,NA,Paid Ads,151
+VIS-0065,Premium,NA,Social,9
+VIS-0066,Guest,NA,,95
+VIS-0067,Premium,EU,Organic Search,154
+VIS-0068,Premium,LATAM,Social,24
+VIS-0069,Guest,EU,Email,131
+VIS-0070,Premium,NA,Paid Ads,74
+VIS-0071,Guest,LATAM,Organic Search,125
+VIS-0072,Guest,NA,Paid Ads,163
+VIS-0073,Premium,EU,Paid Ads,74
+VIS-0074,Guest,LATAM,Email,126
+VIS-0075,Registered,EU,,178
+VIS-0076,Registered,APAC,,14
+VIS-0077,Premium,NA,Email,93
+VIS-0078,Premium,NA,Organic Search,171
+VIS-0079,Guest,EU,Email,24
+VIS-0080,Premium,LATAM,Organic Search,161
+VIS-0081,Registered,NA,Email,159
+VIS-0082,Registered,APAC,Social,109
+VIS-0083,Guest,NA,Direct,149
+VIS-0084,Premium,EU,Direct,64
+VIS-0085,Premium,LATAM,Social,153
+VIS-0086,Premium,EU,Paid Ads,15
+VIS-0087,Registered,EU,Email,180
+VIS-0088,Registered,EU,Organic Search,135
+VIS-0089,Premium,LATAM,Direct,84
+VIS-0090,Premium,EU,Direct,3
+VIS-0091,Guest,NA,Paid Ads,75
+VIS-0092,Premium,LATAM,Direct,149
+VIS-0093,Premium,NA,Paid Ads,142
+VIS-0094,Registered,EU,Organic Search,124
+VIS-0095,Guest,APAC,Email,26
+VIS-0096,Registered,APAC,Email,117
+VIS-0097,Registered,LATAM,Social,158
+VIS-0098,Guest,LATAM,Direct,119
+VIS-0099,Premium,LATAM,,116
+VIS-0100,Registered,EU,Direct,44
+VIS-0101,Registered,NA,Direct,92
+VIS-0102,Guest,EU,Direct,7
+VIS-0103,Guest,NA,Organic Search,77
+VIS-0104,Registered,NA,Direct,18
+VIS-0105,Premium,EU,Email,109
+VIS-0106,Guest,LATAM,Email,33
+VIS-0107,Guest,EU,Organic Search,161
+VIS-0108,Registered,NA,Paid Ads,178
+VIS-0109,Premium,APAC,Organic Search,150
+VIS-0110,Registered,EU,Social,84
+VIS-0111,Premium,LATAM,Organic Search,122
+VIS-0112,Registered,APAC,Social,108
+VIS-0113,Guest,EU,Social,126
+VIS-0114,Guest,APAC,Direct,164
+VIS-0115,Guest,LATAM,Direct,20
+VIS-0116,Registered,EU,Email,173
+VIS-0117,Premium,LATAM,Organic Search,110
+VIS-0118,Premium,LATAM,Email,161
+VIS-0119,Guest,NA,Social,79
+VIS-0120,Premium,APAC,Paid Ads,70
+VIS-0121,Premium,APAC,Social,78
+VIS-0122,Premium,EU,Social,146
+VIS-0123,Guest,NA,Social,28
+VIS-0124,Guest,EU,Direct,3
+VIS-0125,Guest,EU,,150
+VIS-0126,Guest,LATAM,Direct,88
+VIS-0127,Guest,LATAM,Paid Ads,81
+VIS-0128,Premium,NA,Social,112
+VIS-0129,Guest,APAC,Paid Ads,34
+VIS-0130,Guest,LATAM,Direct,1
+VIS-0131,Registered,EU,,36
+VIS-0132,Registered,LATAM,Direct,86
+VIS-0133,Guest,APAC,Paid Ads,66
+VIS-0134,Guest,EU,Direct,33
+VIS-0135,Premium,APAC,Social,106
+VIS-0136,Premium,LATAM,Direct,46
+VIS-0137,Premium,LATAM,Email,179
+VIS-0138,Guest,APAC,Email,151
+VIS-0139,Registered,LATAM,Social,59
+VIS-0140,Registered,LATAM,Social,103
+VIS-0141,Premium,LATAM,Direct,1
+VIS-0142,Registered,LATAM,Direct,3
+VIS-0143,Registered,NA,Paid Ads,135
+VIS-0144,Premium,EU,Paid Ads,74
+VIS-0145,Guest,LATAM,Email,84
+VIS-0146,Premium,EU,Organic Search,10
+VIS-0147,Registered,LATAM,Email,178
+VIS-0148,Guest,EU,Direct,47
+VIS-0149,Premium,NA,Organic Search,7
+VIS-0150,Premium,NA,Email,169
+VIS-0151,Registered,NA,Email,104
+VIS-0152,Premium,APAC,Email,124
+VIS-0153,Registered,APAC,Email,94
+VIS-0154,Guest,NA,Organic Search,164
+VIS-0155,Registered,LATAM,Paid Ads,36
+VIS-0156,Registered,NA,Direct,162
+VIS-0157,Registered,NA,,55
+VIS-0158,Guest,LATAM,Paid Ads,52
+VIS-0159,Premium,NA,Organic Search,132
+VIS-0160,Registered,NA,Direct,166
+VIS-0161,Premium,NA,Paid Ads,36
+VIS-0162,Premium,NA,Email,11
+VIS-0163,Premium,LATAM,Email,132
+VIS-0164,Registered,LATAM,Paid Ads,1
+VIS-0165,Guest,APAC,Direct,132
+VIS-0166,Registered,APAC,Social,168
+VIS-0167,Guest,LATAM,Organic Search,119
+VIS-0168,Premium,NA,Paid Ads,20
+VIS-0169,Guest,EU,Social,99
+VIS-0170,Registered,APAC,Social,104
+VIS-0171,Guest,LATAM,Organic Search,41
+VIS-0172,Registered,APAC,Organic Search,39
+VIS-0173,Registered,APAC,Organic Search,49
+VIS-0174,Registered,EU,Social,72
+VIS-0175,Premium,APAC,Email,14
+VIS-0176,Premium,LATAM,Paid Ads,18
+VIS-0177,Premium,EU,Organic Search,15
+VIS-0178,Registered,EU,Social,79
+VIS-0179,Guest,APAC,,173
+VIS-0180,Guest,LATAM,,30
+VIS-0181,Registered,EU,Social,168
+VIS-0182,Registered,NA,Organic Search,148
+VIS-0183,Registered,NA,Social,70
+VIS-0184,Premium,LATAM,Organic Search,51
+VIS-0185,Registered,EU,Email,33
+VIS-0186,Registered,LATAM,Paid Ads,89
+VIS-0187,Registered,APAC,Social,150
+VIS-0188,Registered,NA,Social,16
+VIS-0189,Registered,APAC,Email,23
+VIS-0190,Guest,NA,Organic Search,33
+VIS-0191,Premium,LATAM,,83
+VIS-0192,Premium,NA,Social,20
+VIS-0193,Guest,NA,Organic Search,154
+VIS-0194,Premium,LATAM,Organic Search,95
+VIS-0195,Premium,NA,Social,28
+VIS-0196,Premium,APAC,Direct,25
+VIS-0197,Premium,EU,Direct,102
+VIS-0198,Registered,APAC,Social,72
+VIS-0199,Guest,EU,Direct,131
+VIS-0200,Premium,EU,Paid Ads,105
+VIS-0201,Registered,APAC,Email,56
+VIS-0202,Registered,APAC,Organic Search,94
+VIS-0203,Registered,NA,Paid Ads,105
+VIS-0204,Premium,NA,Email,91
+VIS-0205,Guest,APAC,Organic Search,86
+VIS-0206,Premium,NA,Organic Search,125
+VIS-0207,Guest,APAC,Direct,148
+VIS-0208,Premium,NA,Email,43
+VIS-0209,Premium,EU,Direct,78
+VIS-0210,Guest,NA,Direct,86
+VIS-0211,Premium,APAC,Social,36
+VIS-0212,Guest,NA,Organic Search,94
+VIS-0213,Registered,APAC,Organic Search,47
+VIS-0214,Guest,APAC,Email,80
+VIS-0215,Premium,APAC,Organic Search,1
+VIS-0216,Registered,NA,Social,73
+VIS-0217,Premium,EU,,114
+VIS-0218,Guest,NA,Paid Ads,21
+VIS-0219,Registered,APAC,Organic Search,36
+VIS-0220,Premium,APAC,Social,4
+VIS-0221,Guest,NA,Social,52
+VIS-0222,Registered,NA,Social,122
+VIS-0223,Guest,LATAM,Email,101
+VIS-0224,Premium,EU,Organic Search,52
+VIS-0225,Guest,LATAM,Organic Search,124
+VIS-0226,Premium,NA,Organic Search,9
+VIS-0227,Guest,NA,Email,126
+VIS-0228,Premium,LATAM,Organic Search,80
+VIS-0229,Guest,APAC,Paid Ads,103
+VIS-0230,Guest,LATAM,Direct,159
+VIS-0231,Registered,LATAM,,151
+VIS-0232,Guest,APAC,Organic Search,146
+VIS-0233,Registered,EU,Email,120
+VIS-0234,Premium,NA,Email,85
+VIS-0235,Premium,LATAM,Organic Search,34
+VIS-0236,Registered,NA,Paid Ads,64
+VIS-0237,Premium,NA,Organic Search,99
+VIS-0238,Registered,APAC,Social,13
+VIS-0239,Premium,NA,Organic Search,8
+VIS-0240,Registered,EU,Email,6
+VIS-0241,Premium,LATAM,Paid Ads,4
+VIS-0242,Premium,EU,Paid Ads,128
+VIS-0243,Registered,NA,Direct,117
+VIS-0244,Guest,NA,Paid Ads,116
+VIS-0245,Premium,NA,Social,45
+VIS-0246,Guest,EU,Social,17
+VIS-0247,Registered,NA,Organic Search,116
+VIS-0248,Premium,APAC,Social,149
+VIS-0249,Registered,LATAM,Organic Search,21
+VIS-0250,Guest,LATAM,Paid Ads,20
+VIS-0251,Guest,APAC,Paid Ads,142
+VIS-0252,Premium,APAC,Organic Search,91
+VIS-0253,Premium,APAC,Organic Search,80
+VIS-0254,Premium,LATAM,Organic Search,19
+VIS-0255,Premium,LATAM,Organic Search,121
+VIS-0256,Registered,EU,Paid Ads,108
+VIS-0257,Premium,EU,Paid Ads,140
+VIS-0258,Premium,NA,,149
+VIS-0259,Guest,APAC,Organic Search,150
+VIS-0260,Premium,EU,Email,63
+VIS-0261,Registered,NA,Organic Search,11
+VIS-0262,Registered,APAC,,146
+VIS-0263,Premium,APAC,Organic Search,107
+VIS-0264,Registered,APAC,Direct,106
+VIS-0265,Guest,APAC,Social,105
+VIS-0266,Registered,LATAM,Paid Ads,158
+VIS-0267,Registered,NA,Direct,154
+VIS-0268,Registered,APAC,Organic Search,110
+VIS-0269,Premium,APAC,Email,129
+VIS-0270,Registered,EU,Organic Search,39
+VIS-0271,Registered,APAC,Organic Search,134
+VIS-0272,Premium,EU,,0
+VIS-0273,Guest,NA,Organic Search,126
+VIS-0274,Premium,APAC,Organic Search,93
+VIS-0275,Premium,EU,Social,65
+VIS-0276,Registered,EU,Social,38
+VIS-0277,Premium,LATAM,Email,4
+VIS-0278,Premium,APAC,Paid Ads,9
+VIS-0279,Guest,APAC,Organic Search,51
+VIS-0280,Premium,LATAM,Direct,95
+VIS-0281,Premium,APAC,Social,148
+VIS-0282,Guest,APAC,Paid Ads,52
+VIS-0283,Guest,EU,Paid Ads,57
+VIS-0284,Guest,NA,Organic Search,164
+VIS-0285,Registered,LATAM,Direct,106
+VIS-0286,Registered,APAC,Direct,74
+VIS-0287,Guest,EU,Social,14
+VIS-0288,Guest,NA,Organic Search,178
+VIS-0289,Premium,APAC,Direct,66
+VIS-0290,Premium,APAC,Email,39
+VIS-0291,Premium,NA,Paid Ads,5
+VIS-0292,Registered,APAC,Email,71
+VIS-0293,Registered,LATAM,,173
+VIS-0294,Premium,NA,Direct,66
+VIS-0295,Premium,LATAM,Email,121
+VIS-0296,Premium,LATAM,Paid Ads,136
+VIS-0297,Guest,NA,Organic Search,116
+VIS-0298,Registered,EU,Organic Search,17
+VIS-0299,Premium,NA,Direct,17
+VIS-0300,Premium,LATAM,Social,24
+VIS-0301,Premium,LATAM,Direct,165
+VIS-0302,Guest,EU,Email,27
+VIS-0303,Premium,LATAM,Direct,157
+VIS-0304,Registered,EU,Email,165
+VIS-0305,Registered,NA,Organic Search,153
+VIS-0306,Premium,NA,Paid Ads,107
+VIS-0307,Premium,APAC,Social,55
+VIS-0308,Registered,NA,Social,70
+VIS-0309,Registered,NA,Social,38
+VIS-0310,Registered,NA,Paid Ads,16
+VIS-0311,Premium,LATAM,Social,39
+VIS-0312,Registered,LATAM,Organic Search,3
+VIS-0313,Registered,NA,Email,169
+VIS-0314,Guest,APAC,Social,7
+VIS-0315,Registered,EU,Email,143
+VIS-0316,Guest,APAC,Social,1
+VIS-0317,Premium,NA,Organic Search,120
+VIS-0318,Premium,NA,Direct,121
+VIS-0319,Premium,EU,Email,65
+VIS-0320,Guest,NA,Direct,112
+VIS-0321,Premium,EU,Email,128
+VIS-0322,Guest,EU,Organic Search,73
+VIS-0323,Registered,EU,Email,29
+VIS-0324,Guest,NA,Organic Search,35
+VIS-0325,Guest,EU,Organic Search,146
+VIS-0326,Registered,LATAM,Paid Ads,14
+VIS-0327,Registered,LATAM,Organic Search,142
+VIS-0328,Premium,NA,Paid Ads,84
+VIS-0329,Registered,NA,Direct,71
+VIS-0330,Registered,EU,Social,108
+VIS-0331,Premium,APAC,Email,164
+VIS-0332,Registered,NA,Paid Ads,92
+VIS-0333,Registered,APAC,Social,55
+VIS-0334,Registered,EU,Paid Ads,178
+VIS-0335,Registered,LATAM,Email,173
+VIS-0336,Premium,LATAM,Social,35
+VIS-0337,Premium,NA,Organic Search,162
+VIS-0338,Premium,NA,Social,29
+VIS-0339,Guest,APAC,Direct,25
+VIS-0340,Guest,EU,Paid Ads,139
+VIS-0341,Registered,NA,Social,127
+VIS-0342,Registered,APAC,Paid Ads,100
+VIS-0343,Guest,LATAM,Social,114
+VIS-0344,Premium,APAC,Direct,12
+VIS-0345,Guest,EU,Paid Ads,154
+VIS-0346,Registered,APAC,Social,102
+VIS-0347,Guest,EU,Paid Ads,176
+VIS-0348,Registered,NA,Email,38
+VIS-0349,Guest,NA,Organic Search,46
+VIS-0350,Guest,NA,Organic Search,118
+VIS-0351,Premium,APAC,Email,17
+VIS-0352,Guest,NA,Direct,37
+VIS-0353,Premium,NA,Email,119
+VIS-0354,Premium,EU,Social,7
+VIS-0355,Guest,NA,Paid Ads,22
+VIS-0356,Registered,APAC,Organic Search,157
+VIS-0357,Guest,EU,,13
+VIS-0358,Guest,NA,Organic Search,72
+VIS-0359,Registered,APAC,Paid Ads,149
+VIS-0360,Registered,EU,Social,90
+VIS-0361,Premium,NA,Paid Ads,125
+VIS-0362,Guest,EU,Direct,47
+VIS-0363,Guest,LATAM,Direct,100
+VIS-0364,Registered,LATAM,Email,76
+VIS-0365,Premium,NA,Paid Ads,29
+VIS-0366,Guest,LATAM,Direct,24
+VIS-0367,Registered,LATAM,Email,30
+VIS-0368,Premium,EU,Paid Ads,95
+VIS-0369,Guest,NA,Organic Search,121
+VIS-0370,Premium,LATAM,Social,174
+VIS-0371,Registered,EU,Email,54
+VIS-0372,Premium,APAC,Social,43
+VIS-0373,Premium,LATAM,Organic Search,109
+VIS-0374,Registered,EU,Email,111
+VIS-0375,Registered,APAC,Direct,35
+VIS-0376,Guest,LATAM,Paid Ads,60
+VIS-0377,Guest,APAC,Paid Ads,32
+VIS-0378,Registered,EU,Direct,146
+VIS-0379,Premium,APAC,Organic Search,112
+VIS-0380,Registered,NA,Social,78
+VIS-0381,Premium,APAC,,29
+VIS-0382,Premium,NA,Direct,34
+VIS-0383,Premium,LATAM,Direct,171
+VIS-0384,Premium,LATAM,Organic Search,13
+VIS-0385,Guest,EU,Email,122
+VIS-0386,Premium,LATAM,Direct,177
+VIS-0387,Guest,EU,Email,114
+VIS-0388,Guest,NA,Email,172
+VIS-0389,Registered,APAC,Social,15
+VIS-0390,Guest,APAC,Email,140
+VIS-0391,Registered,EU,Direct,83
+VIS-0392,Premium,NA,Direct,159
+VIS-0393,Registered,NA,Paid Ads,165
+VIS-0394,Registered,NA,Organic Search,84
+VIS-0395,Premium,NA,Paid Ads,22
+VIS-0396,Registered,LATAM,Social,103
+VIS-0397,Guest,APAC,Direct,165
+VIS-0398,Registered,LATAM,Social,0
+VIS-0399,Guest,EU,Paid Ads,172
+VIS-0400,Guest,LATAM,Email,24
+VIS-0401,Premium,APAC,Email,48
+VIS-0402,Registered,LATAM,Social,94
+VIS-0403,Guest,LATAM,Email,2
+VIS-0404,Guest,APAC,Direct,55
+VIS-0405,Guest,NA,Email,127
+VIS-0406,Guest,EU,Organic Search,53
+VIS-0407,Guest,EU,Social,56
+VIS-0408,Premium,NA,Paid Ads,31
+VIS-0409,Guest,EU,Direct,160
+VIS-0410,Premium,NA,Paid Ads,75
+VIS-0411,Premium,APAC,Paid Ads,8
+VIS-0412,Guest,APAC,Direct,32
+VIS-0413,Guest,LATAM,Social,113
+VIS-0414,Guest,EU,Organic Search,167
+VIS-0415,Premium,APAC,,126
+VIS-0416,Guest,LATAM,Direct,47
+VIS-0417,Premium,LATAM,Direct,158
+VIS-0418,Premium,LATAM,Social,68
+VIS-0419,Premium,APAC,Paid Ads,96
+VIS-0420,Registered,EU,Social,90
+VIS-0421,Guest,APAC,Direct,38
+VIS-0422,Premium,LATAM,,88
+VIS-0423,Premium,APAC,Email,164
+VIS-0424,Guest,LATAM,Email,31
+VIS-0425,Guest,EU,Email,110
+VIS-0426,Guest,APAC,Paid Ads,45
+VIS-0427,Guest,EU,Social,155
+VIS-0428,Premium,NA,Organic Search,56
+VIS-0429,Guest,EU,Organic Search,71
+VIS-0430,Premium,NA,Email,128
+VIS-0431,Registered,APAC,Email,26
+VIS-0432,Guest,EU,Organic Search,10
+VIS-0433,Registered,LATAM,Social,175
+VIS-0434,Premium,LATAM,Organic Search,38
+VIS-0435,Registered,APAC,Organic Search,22
+VIS-0436,Registered,EU,Organic Search,18
+VIS-0437,Guest,LATAM,Direct,14
