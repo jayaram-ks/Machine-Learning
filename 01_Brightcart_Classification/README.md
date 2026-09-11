@@ -174,6 +174,31 @@ Conversion rates varied by referral source.
 
 This suggests that referral source can provide useful information for predicting conversion.
 
+## Key Visualizations
+
+### 1. Distribution of Conversion
+
+This chart shows the distribution of converted and non-converted customers, highlighting the moderate class imbalance in the dataset.
+
+![alt text](image.png)
+
+
+
+### 2. Pages Viewed by Conversion
+
+This chart compares pages viewed per session between converters and non-converters. Converters show higher browsing engagement, with a median of 11.17 pages compared with 6.25 for non-converters.
+
+![alt text](image-1.png)
+
+
+
+### 3. Conversion Rate by Referral Source
+
+This chart shows how conversion rates vary across different referral sources. Paid Ads had the highest conversion rate at 44.9%, while Social had the lowest at 30.0%.
+![alt text](image-2.png)
+
+
+
 ## Business Benefit
 
 The model can help Brightcart's marketing and customer-retention teams:
