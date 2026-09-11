@@ -194,9 +194,10 @@ This chart compares pages viewed per session between converters and non-converte
 
 ### 3. Conversion Rate by Referral Source
 
-This chart shows how conversion rates vary across different referral sources. Paid Ads had the highest conversion rate at 44.9%, while Social had the lowest at 30.0%.
-![alt text](image-2.png)
+This chart shows how conversion rates vary across different referral sources. Paid Ads had the highest conversion rate at 44.9% 
+ while Social had the lowest at 30.0%.
 
+![alt text](image-2.png)
 
 
 ## Business Benefit
